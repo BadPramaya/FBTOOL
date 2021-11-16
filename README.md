@@ -37,7 +37,7 @@
 
 ## INSTALLATION
 
-    $ git clone https://github.com/mkdirlove/FBTOOL
+    $ git clone https://github.com/BadPramaya/FBTOOL
     $ cd FBTOOL
 
 ## USAGE
